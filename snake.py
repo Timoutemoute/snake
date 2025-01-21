@@ -126,7 +126,7 @@ direction = 'droite'
 serpent = [(10, 10)]
 nourriture = []
 nourriture.append(generer_nourriture())
-pieges = []
+pieges = []  # Initialisation de la liste des pièges
 score = 0
 game_over = False
 
